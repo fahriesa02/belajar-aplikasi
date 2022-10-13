@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fahriesa02/belajar-aplikasi/issues"
   },
-  "homepage": "https://github.com/fahriesa02/belajar-aplikasi#readme"
+  "homepage": "https://github.com/fahriesa02/belajar-aplikasi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
