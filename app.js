@@ -5,7 +5,7 @@ const port = 3000;
 
 // bikin route http
 app.get('/', function(req, res) {
-    res.json('Hello World!');
+    res.json({title: 'Hello World!'});
 })
 
 
